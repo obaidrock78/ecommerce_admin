@@ -1,0 +1,55 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+user-venv
+env/
+.user-venv/
+
+# Environment variables file
+config/.env
+*.env
+
+# Log files
+*.log
+logs/
+
+# JetBrains IDEs
+.idea/
+
+# Database files
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Static and media files
+static/
+media/
+
+# Frontend build artifacts
+*.js.map
+*.js
+*.css
+
+# Alembic migrations
+#alembic/versions/
+
+# Optional: Ignore project documentation artifacts
+docs/_build/
+site/
+
+# Optional: Ignore specific app directories (e.g., if using multiple app)
+app/account/__pycache__/
+
+# .gitignore
+.DS_Store
+../../.DS_Store
+../../docker/alembic/__pycache__/
+
+
+/config/.env
