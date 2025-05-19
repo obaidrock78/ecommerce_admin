@@ -43,8 +43,8 @@ Backend API for e-commerce management system with sales analytics and inventory 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ecommerce-admin-api.git
-cd ecommerce-admin-api
+git clone https://github.com/obaidrock78/ecommerce_admin/
+cd ecommerce-admin
 
 # Create virtual environment
 python -m venv venv
